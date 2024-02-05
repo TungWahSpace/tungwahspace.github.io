@@ -8,4 +8,4 @@
 
 [联系我们](./contact)
 
-[文章发布](muffin.tungwah.club/article/)
+[文章发布](http://muffin.tungwah.club/article/)
